@@ -6,3 +6,7 @@ oranges
 monday
 tuesday
 wednesday
+
+carrots
+broccoli 
+spinach
