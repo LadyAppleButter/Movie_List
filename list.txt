@@ -2,3 +2,7 @@ this is a list
 apple
 banana
 oranges
+
+monday
+tuesday
+wednesday
